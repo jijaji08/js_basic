@@ -1,2 +1,2 @@
 # js_basic
-i will learn here basics of Javascript
+here i will learn basics of Javascript
