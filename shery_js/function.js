@@ -56,11 +56,10 @@ var expres= function(){
 var fatt_arrow= ()=>{
     console.log("this is a fat arrow function");
 }
-var fatt_arrow_para= (val)=>{
+var fatt_arrow_para= (val)=>{ // we can give single parameter without parentheses and it is not possible with to or more
     console.log("this is a fat arrow function with single parameter");
 }
 var fatt_arrow_retu=()=>4;
-
 
 stat();
 expres();
