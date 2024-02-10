@@ -33,7 +33,7 @@
 //     //statements
 // } 
 // "or"
-// var a= val=>{ //val without fat or () or paranthesis only aplicable for single value..
+// var a= val=>{ //val without fat or () or paranthesis only applicable for single value..
 //     //statement
 // }
 
